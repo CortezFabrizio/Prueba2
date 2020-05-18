@@ -13,5 +13,5 @@ while i < 10:
         ce.atributo = "dale"
 
     print(i)
-
+y = "dale"
 print(ce.atributo)
